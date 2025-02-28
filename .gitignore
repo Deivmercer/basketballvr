@@ -1,0 +1,7 @@
+.idea/
+Clips/
+.DS_STORE
+*.mov
+*.apk
+*.drp
+mono_crash*
